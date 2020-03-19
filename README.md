@@ -1,2 +1,2 @@
 # covid-helper
-Test ob ich die repositry mit Freunden teilen kann
+Falls du Flutter bei android studio eingerichtet hast. Kannst du die Lib und pubspek.yaml hineinkopieren.
