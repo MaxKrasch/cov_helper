@@ -1,2 +1,2 @@
 # covid-helper
-Falls du Flutter bei android studio eingerichtet hast. Kannst du die Lib und pubspek.yaml hineinkopieren.
+Falls du Flutter bei android studio eingerichtet hast, kannst du die Library und pubspec.yaml hineinkopieren. Du kannst die restlichen Ordner und files in der Repository ignorieren, da diese automatisch erstellt werden, wenn du ein Flutter Projekt erstellst. Ich habe versucht diese zu löschen, aber das hat sich als relativ aufwändig erwiesen. Wenn du Flutter nicht einrichtest kannst du jetzt zumindest den code lesen der von mir geschrieben wurde, was sinnvoll ist wenn wir so weit sind, die app  mit der cloud zu verbinden (hoffentlich heute ca. ab 18 uhr).
