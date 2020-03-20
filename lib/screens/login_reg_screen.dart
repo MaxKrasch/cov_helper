@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:helperflutter/components/rounded_button.dart';
-import 'package:helperflutter/screens/main_screen.dart';
+import 'package:helperapp/components/rounded_button.dart';
+import 'package:helperapp/screens/login_screen.dart';
+import 'package:helperapp/screens/registration_screen.dart';
 
 class LoginRegScreen extends StatefulWidget {
   @override
@@ -26,7 +27,7 @@ class _LoginRegScreenState extends State<LoginRegScreen> {
               colour: Colors.lightBlueAccent,
               onPressed: () {
                 Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => MainScreen(),
+                  builder: (context) => LoginScreen(),
                 ));
               },
             ),
@@ -35,7 +36,7 @@ class _LoginRegScreenState extends State<LoginRegScreen> {
               colour: Colors.blueAccent,
               onPressed: () {
                 Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => MainScreen(),
+                  builder: (context) => RegistrationScreen(),
                 ));
               },
             ),

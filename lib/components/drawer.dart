@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:helperflutter/screens/main_screen.dart';
-import 'package:helperflutter/screens/profil_screen.dart';
+import 'package:helperapp/screens/main_screen.dart';
+import 'package:helperapp/screens/profil_screen.dart';
 
 class MainDrawer extends StatelessWidget {
   @override

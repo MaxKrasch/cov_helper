@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:helperflutter/screens/main_screen.dart';
+import 'package:helperapp/screens/main_screen.dart';
 
 class LoadingScreen extends StatefulWidget {
   @override
